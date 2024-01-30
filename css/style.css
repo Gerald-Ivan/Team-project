@@ -1,0 +1,17 @@
+:root {
+    /* page colors */
+    --black: #111;
+    --grey: #1E1823;
+    --orange: #FD9222;
+    --dirty-white: #FAFAFA;
+    --white: #fff;
+    /* page font-style */
+    --montserrat: montserrat;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: var(--dirty-white);
+}
